@@ -9,7 +9,8 @@
 6. Stop the Program
 ## PROGRAM
 ## CLIENT
-```import socket
+```
+import socket
 c = socket.socket()
 c.connect(('localhost', 9999))
 
